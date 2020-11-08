@@ -14,7 +14,7 @@
 
 ##### Screenshots
 
-<img src="./screenshots/joinm.jpeg" width="200" ><img src="./screenshots/chatm.jpeg" width="200">
+<img src="./screenshots/joinm.jpeg" width="200" >    <img src="./screenshots/chatm.jpeg" width="200">
 <img src="./screenshots/joinp.png" width="600"><img src="./screenshots/chatp.png" width="600">
 
 
